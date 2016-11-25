@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629006094840",
+    "project_id": "imagelistview"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629006094840:android:0871a494fa8ab14f",
+        "android_client_info": {
+          "package_name": "com.example.sandip.imagelistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629006094840-kh9a8nll222h003q5coudb6tm8nk549s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandip.imagelistview",
+            "certificate_hash": "563CDF36B0CCFAE970AAB5D8690994AFECB45C49"
+          }
+        },
+        {
+          "client_id": "629006094840-fihpp8jb2dbeehe3ps23rcr8tde6uu3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknPKnxpH3XkM8YitHg6cakvb68bjOvFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
