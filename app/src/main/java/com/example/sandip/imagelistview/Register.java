@@ -25,7 +25,7 @@ import java.util.Map;
  */
 
 public class Register extends AppCompatActivity implements View.OnClickListener{
-    private static final String REGISTER_URL = "http://democontact.esy.es/Upload%20Image/register.php";
+    private static final String REGISTER_URL = "Type Your URL";
     public static final String KEY_USERNAME = "Name";
     public static final String KEY_GENDER= "Gender";
     public static final String KEY_EMAIL= "Email";
