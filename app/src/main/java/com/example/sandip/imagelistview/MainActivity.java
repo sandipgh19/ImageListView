@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             protected Bitmap doInBackground(String... params) {
-                String add = "http://democontact.esy.es/Upload%20Image/upload/"+email+".jpg";
+                String add = "Add Your Url";
                 URL url = null;
                 Bitmap image = null;
                 try {
