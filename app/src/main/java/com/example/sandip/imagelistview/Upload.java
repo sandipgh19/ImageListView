@@ -41,7 +41,7 @@ public class Upload extends AppCompatActivity implements View.OnClickListener{
 
     private int PICK_IMAGE_REQUEST = 1;
 
-    private String UPLOAD_URL ="http://democontact.esy.es/Upload%20Image/upload.php";
+    private String UPLOAD_URL ="Your URL";
 
     private String KEY_IMAGE = "image";
     private String KEY_NAME = "name";
